@@ -4,4 +4,3 @@ myHeading.textContent = 'hello world';
 
 let myImage = document.querySelector('img');
 
-
