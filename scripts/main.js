@@ -1,6 +1,0 @@
-
-let myHeading = document.querySelector('h1');
-myHeading.textContent = 'hello world';
-
-let myImage = document.querySelector('img');
-
